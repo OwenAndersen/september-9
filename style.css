@@ -1,0 +1,17 @@
+img {
+  width: 200px;
+  margin: 100px auto 50px;
+  border-radius: 50%;
+}
+body {
+  text-align: center;
+  font-family: sans-serif;
+}
+h3,
+P {
+  margin: 0;
+  padding: 0;
+}
+P {
+  font-weight: 100;
+}
